@@ -1,0 +1,218 @@
+{
+  "us": {
+    "full_name": {
+      "label": "Contact name",
+      "type": "text",
+      "options": null
+    },
+    "email": {
+      "label": "Email",
+      "type": "text",
+      "options": null
+    },
+    "source": {
+      "label": "Source format",
+      "type": "choice",
+      "options": [
+        "Select source",
+        "Digital PDF",
+        "Scanned PDF",
+        "Image files"
+      ]
+    },
+    "target": {
+      "label": "Target format",
+      "type": "choice",
+      "options": [
+        "Select target",
+        "DOCX",
+        "XLSX",
+        "PPTX",
+        "Searchable PDF"
+      ]
+    },
+    "files": {
+      "label": "Estimated files",
+      "type": "text",
+      "options": null
+    },
+    "pages": {
+      "label": "Estimated pages",
+      "type": "text",
+      "options": null
+    },
+    "date": {
+      "label": "Needed by (MM/DD/YYYY)",
+      "type": "text",
+      "options": null
+    },
+    "layout": {
+      "label": "Layout priority",
+      "type": "choice",
+      "options": [
+        "Select priority",
+        "Editable content",
+        "Match source layout",
+        "Extract tables"
+      ]
+    },
+    "sample": {
+      "label": "Sample filename",
+      "type": "text",
+      "options": null
+    },
+    "instructions": {
+      "label": "Instructions and acceptance criteria",
+      "type": "text",
+      "options": null
+    },
+    "ocr": {
+      "label": "OCR is needed for scanned text.",
+      "type": "checkbox"
+    }
+  },
+  "uk": {
+    "full_name": {
+      "label": "Contact name",
+      "type": "text",
+      "options": null
+    },
+    "email": {
+      "label": "Email",
+      "type": "text",
+      "options": null
+    },
+    "source": {
+      "label": "Source format",
+      "type": "choice",
+      "options": [
+        "Select source",
+        "Digital PDF",
+        "Scanned PDF",
+        "Image files"
+      ]
+    },
+    "target": {
+      "label": "Target format",
+      "type": "choice",
+      "options": [
+        "Select target",
+        "DOCX",
+        "XLSX",
+        "PPTX",
+        "Searchable PDF"
+      ]
+    },
+    "files": {
+      "label": "Estimated files",
+      "type": "text",
+      "options": null
+    },
+    "pages": {
+      "label": "Estimated pages",
+      "type": "text",
+      "options": null
+    },
+    "date": {
+      "label": "Needed by (DD/MM/YYYY)",
+      "type": "text",
+      "options": null
+    },
+    "layout": {
+      "label": "Layout priority",
+      "type": "choice",
+      "options": [
+        "Select priority",
+        "Editable content",
+        "Match source layout",
+        "Extract tables"
+      ]
+    },
+    "sample": {
+      "label": "Sample filename",
+      "type": "text",
+      "options": null
+    },
+    "instructions": {
+      "label": "Instructions and acceptance criteria",
+      "type": "text",
+      "options": null
+    },
+    "ocr": {
+      "label": "OCR is needed for scanned text.",
+      "type": "checkbox"
+    }
+  },
+  "au": {
+    "full_name": {
+      "label": "Contact name",
+      "type": "text",
+      "options": null
+    },
+    "email": {
+      "label": "Email",
+      "type": "text",
+      "options": null
+    },
+    "source": {
+      "label": "Source format",
+      "type": "choice",
+      "options": [
+        "Select source",
+        "Digital PDF",
+        "Scanned PDF",
+        "Image files"
+      ]
+    },
+    "target": {
+      "label": "Target format",
+      "type": "choice",
+      "options": [
+        "Select target",
+        "DOCX",
+        "XLSX",
+        "PPTX",
+        "Searchable PDF"
+      ]
+    },
+    "files": {
+      "label": "Estimated files",
+      "type": "text",
+      "options": null
+    },
+    "pages": {
+      "label": "Estimated pages",
+      "type": "text",
+      "options": null
+    },
+    "date": {
+      "label": "Needed by (DD/MM/YYYY)",
+      "type": "text",
+      "options": null
+    },
+    "layout": {
+      "label": "Layout priority",
+      "type": "choice",
+      "options": [
+        "Select priority",
+        "Editable content",
+        "Match source layout",
+        "Extract tables"
+      ]
+    },
+    "sample": {
+      "label": "Sample filename",
+      "type": "text",
+      "options": null
+    },
+    "instructions": {
+      "label": "Instructions and acceptance criteria",
+      "type": "text",
+      "options": null
+    },
+    "ocr": {
+      "label": "OCR is needed for scanned text.",
+      "type": "checkbox"
+    }
+  }
+}

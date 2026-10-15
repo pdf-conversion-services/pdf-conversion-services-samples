@@ -1,0 +1,29 @@
+[
+  {
+    "country": "United States",
+    "paper": "US Letter",
+    "fields": 11,
+    "canonical_tree": "pass",
+    "widgets": "pass",
+    "fill_save_reopen": "pass",
+    "appearance_streams": "pass"
+  },
+  {
+    "country": "United Kingdom",
+    "paper": "A4",
+    "fields": 11,
+    "canonical_tree": "pass",
+    "widgets": "pass",
+    "fill_save_reopen": "pass",
+    "appearance_streams": "pass"
+  },
+  {
+    "country": "Australia",
+    "paper": "A4",
+    "fields": 11,
+    "canonical_tree": "pass",
+    "widgets": "pass",
+    "fill_save_reopen": "pass",
+    "appearance_streams": "pass"
+  }
+]

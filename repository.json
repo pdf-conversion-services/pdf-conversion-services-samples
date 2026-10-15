@@ -1,0 +1,26 @@
+{
+  "slug": "pdf-conversion-services-samples",
+  "title": "PDF Conversion Services Samples",
+  "form": "PDF conversion request",
+  "kind": "conversion",
+  "description": "PDF conversion request templates, sample screenshots and a practical PDF-to-Word/Excel quality checklist for US, UK and Australian projects.",
+  "primary": "PDF conversion services",
+  "secondary": [
+    "PDF to Word conversion service",
+    "PDF to Excel conversion service",
+    "scanned PDF conversion",
+    "PDF conversion request form"
+  ],
+  "service": "https://pdfserviceexperts.com/services/document-conversion-services/",
+  "anchor": "PDF conversion services",
+  "topics": [
+    "pdf-conversion",
+    "pdf-to-word",
+    "pdf-to-excel",
+    "pdf-forms",
+    "document-conversion",
+    "quality-assurance"
+  ],
+  "value": "Scope a PDF conversion job before production: source format, target format, page count and layout priorities.",
+  "guide": "State the source and target formats, estimate the page count, and describe how closely the converted output must match the source. Attach a representative source file through your chosen secure channel. This repository contains request templates and a QA checklist; it is not a conversion engine and does not demonstrate a completed PDF-to-Word or PDF-to-Excel conversion."
+}
