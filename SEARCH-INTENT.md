@@ -5,10 +5,10 @@ These are editorial keyword hypotheses based on the service scope and the assets
 | Intent | Phrase | Helpful destination |
 |---|---|---|
 | Core service research | PDF conversion services | README custom-service paragraph and the service page |
-| Service comparison / task research | PDF to Word conversion service | README downloads and usage guide |
-| Service comparison / task research | PDF to Excel conversion service | README downloads and usage guide |
-| Service comparison / task research | scanned PDF conversion | README downloads and usage guide |
-| Download / task planning | PDF conversion request form | README downloads and usage guide |
+| Service comparison / task research | PDF to Word conversion service | README screenshot gallery and usage guide |
+| Service comparison / task research | PDF to Excel conversion service | README screenshot gallery and usage guide |
+| Service comparison / task research | scanned PDF conversion | README screenshot gallery and usage guide |
+| Example research / task planning | PDF conversion request form | README screenshot gallery and usage guide |
 
 ## Country modifiers
 
@@ -19,7 +19,7 @@ These are editorial keyword hypotheses based on the service scope and the assets
 ## Suggested GitHub settings
 
 - Repository name: `pdf-conversion-services-samples`
-- About description: PDF conversion request templates, sample screenshots and a practical PDF-to-Word/Excel quality checklist for US, UK and Australian projects.
+- About description: Unbranded PDF conversion request screenshots and a PDF-to-Word/Excel quality checklist for US, UK and Australian projects.
 - Website: https://pdfserviceexperts.com/services/document-conversion-services/
 - Topics: `pdf-conversion`, `pdf-to-word`, `pdf-to-excel`, `pdf-forms`, `document-conversion`, `quality-assurance`
 
